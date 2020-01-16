@@ -10,6 +10,8 @@ Name: Your Name
 
  printf("Computer science")
 
+printf("Hi im anna and my major is I dont know");
+
  return0;
 
 }
